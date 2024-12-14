@@ -100,12 +100,16 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
 ---
 
 ### **Day 13: January 6**
+
+
 - **Morning:** Drive to **Cahuita National Park** (~4 hours).
   - Explore the park: snorkeling, hiking, or spotting wildlife.
+- **Afternoon:** Continue to **Playa Manzanillo** (~1 hour from Cahuita).
+  - Relax at the beach, walk the trails of **Gandoca-Manzanillo Wildlife Refuge**, or snorkel.
 - **Afternoon:** Drive to **Puerto Viejo** (~45 minutes).
   - Relax at **Punta Uva** or **Playa Cocles**.
 - **Evening:** Stay in Puerto Viejo.
-
+  
 ---
 
 ### **Day 14: January 7**
