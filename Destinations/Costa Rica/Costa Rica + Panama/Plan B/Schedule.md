@@ -78,7 +78,7 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
 - **Morning:** Begin the drive back to **Paseo Canoas** (~6-7 hours).
 - **Evening:** Stay overnight near the border.
 
-
+- take breaks as detailed in https://github.com/jraymondli/Travel/blob/main/Destinations/Costa%20Rica/Costa%20Rica%20%2B%20Panama/Plan%20B/Jan%203%20Details.md
 
 
 ---
