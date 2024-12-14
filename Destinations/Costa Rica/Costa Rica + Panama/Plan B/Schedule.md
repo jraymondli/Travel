@@ -46,7 +46,7 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
 - **Morning:** Visit **Manuel Antonio National Park**.
 - **Afternoon:** Drive to **Nauyaca Waterfalls** (~45 minutes).
   - Hike or take a horseback tour to the falls.
-- **Evening:** Drive to **Paseo Canoas** (~3 hours) and stay overnight near the border.
+- **Evening:** Drive to **Paseo Canoas** (~3 hours, 2hr 15m per map) and stay overnight near the border.
 
 ---
 
