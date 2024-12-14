@@ -129,15 +129,7 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
 
 ---
 
-### **Key Adjustments:**
-1. **Cahuita National Park on January 6:** 
-   - Moved to a full morning exploration, with the afternoon spent transitioning to Puerto Viejo.
-2. **Puerto Viejo Focused on January 7:**
-   - Allows you to relax and explore before returning to San José.
-3. **Rest of the Schedule Intact:** 
-   - Tamarindo, Osa Peninsula, and Boquete visits remain unchanged.
 
-This revised plan balances your itinerary while ensuring a seamless flow across destinations. Let me know if you'd like additional adjustments!
 
 
 
