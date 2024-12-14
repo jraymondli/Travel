@@ -12,12 +12,21 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
 - **5:00 PM:** Drive to **Rincón de la Vieja** (~2 hours).
 - **Evening:** Check in and relax.
 
+
 ---
 
-### **Day 2: December 26**
-- **Morning:** Explore **Rincón de la Vieja National Park**.
-- **Afternoon:** Drive to **La Fortuna** (~3.5-4 hours).
-- **Evening:** Check in and relax.
+### **Day 2: December 26** (Updated)
+- **Morning:** Explore **Rincón de la Vieja National Park**:
+  - Hike one of the park’s scenic trails to see volcanic features like mud pots, fumaroles, and waterfalls.
+- **Afternoon:** Visit **Río Negro Hot Springs**:
+  - Relax in the natural thermal pools surrounded by lush forest.
+  - Optional: Enjoy the volcanic mud bath experience.
+- **Evening:** Drive to **La Fortuna** (~3.5-4 hours).
+- **Night:** Check in and relax in La Fortuna.
+
+
+
+
 
 ---
 
