@@ -106,6 +106,7 @@ Here’s the revised itinerary with the **visit to Cahuita National Park moved t
   - Explore the park: snorkeling, hiking, or spotting wildlife.
 - **Afternoon:** Continue to **Playa Manzanillo** (~1 hour from Cahuita).
   - Relax at the beach, walk the trails of **Gandoca-Manzanillo Wildlife Refuge**, or snorkel.
+  - 5 minutes drive to Punta Uva
 - **Afternoon:** Drive to **Puerto Viejo** (~45 minutes).
   - Relax at **Punta Uva** or **Playa Cocles**.
 - **Evening:** Stay in Puerto Viejo.
