@@ -1,0 +1,15 @@
+Staying at Four Points by Sheraton Mexico City, Colonia Roma in **Roma Norte** is a fairly reasonable choice from a safety standpoint. I would describe it as **a popular, central tourist area where normal big-city precautions are important**, rather than an area I’d avoid.
+
+The current U.S. State Department advisory rates **Mexico City at Level 2: Exercise Increased Caution**, mainly because both violent and non-violent crime occur in the city. It specifically says to use extra caution at night outside popular tourist areas and notes that petty theft is common even in tourist zones. There are **no special travel restrictions for U.S. government employees within Mexico City**. [Travel.state.gov](https://travel.state.gov/en/international-travel/travel-advisories/mexico.html?utm_source=chatgpt.com)
+
+Your hotel is on **Avenida Álvaro Obregón in Roma Norte**, surrounded by restaurants, cafés and nightlife and close to Roma/Condesa and Zona Rosa. That’s much more comfortable for visitors than staying in an isolated or peripheral part of the city. Four Points by Sheraton Mexico City, Colonia Roma
+
+The risks I would actually plan around are mostly **phone/wallet theft, pickpocketing, opportunistic robbery, and transportation issues**, rather than worrying constantly about cartel violence. The UK travel guidance likewise emphasizes street crime and recommends keeping valuables discreet, using ATMs inside shops or malls during daylight, and avoiding unlicensed taxis. [GOV.UK](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security?utm_source=chatgpt.com)
+
+For you and your wife, I’d be comfortable with this plan if you follow a few habits: walk around Roma Norte/Condesa during the day and in busy areas in the evening; after a late dinner, use **Uber/Cabify or a hotel-arranged car** rather than wandering several quiet blocks; don’t hail random street taxis; keep your phone put away when you aren’t using it; carry one credit card and limited cash rather than everything; and leave passports and backup cards in the hotel safe. The State Department specifically recommends ride-sharing apps or authorized taxis and warns against hailing taxis on the street. [Travel.state.gov](https://travel.state.gov/en/international-travel/travel-advisories/mexico.html?utm_source=chatgpt.com)
+
+One current wrinkle is that Mexico City has had **anti-gentrification demonstrations in central/tourist neighborhoods since 2025**. They are normally something to avoid rather than a reason not to visit—if you see a demonstration, simply move away and follow hotel/local advice. [GOV.UK](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security?utm_source=chatgpt.com)
+
+So I **would not change your Four Points Roma booking because of safety concerns**. For a first visit, Roma Norte is actually one of the areas I’d be more comfortable using as a base.
+
+If you're comparing this with the other Marriott options you showed me earlier, I can also tell you **which of the Four Points Roma, Courtyard Revolución, and City Express Reforma has the best combination of safety + walkability + restaurants**.
