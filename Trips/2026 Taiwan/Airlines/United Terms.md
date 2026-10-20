@@ -11,3 +11,24 @@ Money + Miles tickets are governed by and subject to the Contract of Carriage, M
 Hazardous Materials: Federal law forbids the carriage of hazardous materials aboard aircraft.
 Hazardous Materials include explosives, compressed gases, flammable liquids and solids, oxidizers, poisons, corrosives, and radioactive materials. Please review our dangerous goods policy before you travel.
 ```
+
+# Interpretations by ChatGPT
+
+Yes — based on the purchase conditions you pasted, this is a **nonrefundable but changeable United ticket**.
+
+The important part is what “nonrefundable” means here: after the 24-hour grace period, if you cancel before departure, you generally **do not get the fare back to your credit card as cash**. Instead, you preserve the ticket’s value for future United travel, subject to the fare rules and expiration. Your text specifically says the value is valid for **up to one year from the original ticket issue date**, or whatever shorter period the fare rules specify.
+
+Also, you must cancel or change **before the scheduled departure**. If you simply don’t show up, the conditions say you can forfeit the ticket value.
+
+The first 24 hours are different: United’s 24-hour flexible booking policy generally lets you cancel an eligible booking during that window and receive a refund to the original form of payment.
+
+So, for your SFO → Taipei ticket, I’d think of it as:
+
+**Within 24 hours:** cancel → money back.  
+**After 24 hours:** cancel before departure → generally United flight credit, not cash.  
+**Change flight:** allowed, but you pay any fare difference.  
+**No-show:** potentially lose the entire value.
+
+One separate issue is your **Economy Plus seat purchase** (such as the $193 seat you were considering). Its refund rules can be different from the underlying airfare, so I would not assume the sentence you pasted guarantees that the Economy Plus fee becomes a credit too. [United Airlines](https://www.united.com/es/co/refunds?utm_source=chatgpt.com)
+
+If your main concern is whether it is safe to book the flight now and then buy the Economy Plus seats, I’d be comfortable booking the airfare under these terms; the bigger thing to verify separately is what happens to the **$193 Economy Plus payment if you later cancel or change the flight**.
